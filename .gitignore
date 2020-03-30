@@ -17,4 +17,4 @@ Thumbs.db
 !/wp-content/themes/myblog
 /wp-includes/*
 
-node_modules
+node_modules/
