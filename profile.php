@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Home -トップページ-
+Template Name: Profile -プロフィールページ-
 */
 ?>
 <!-- ヘッダー読み込み -->
