@@ -9,6 +9,11 @@ $main-color: #333;
 $fz-xxl: 36px;
 $fz_xl: 28px;
 
+// ユーティリティ
+.max-width100 {
+  max-width: 100%;
+}
+
 body,
 h1,
 ul {
@@ -21,9 +26,11 @@ ul {
 
   &__siteTitle {
     color: $main-color;
-    padding: 30px 0 30px;
     text-align: center;
     font-size: $fz-xxl;
+  }
+  &__img {
+    width: 100%;
   }
 }
 
